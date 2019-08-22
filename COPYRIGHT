@@ -1,0 +1,9 @@
+Copyright (C) 2019 Alibaba Group. ALL right reserved.
+
+Redistribution and use of the source code, data or all files (Collectively “Software”), with or without modification, are permitted provided that the following conditions are met:
+1. Redistributions of the Software must cite the following paper: Zhuoren Jiang, Jian Wang, Lujun Zhao, Changlong Sun, Yao Lu, and Xiaozhong Liu. 2019. Cross-domain Aspect Category Transfer and Detection via Traceable Heterogeneous Graph Representation Learning. In Proceedings of the 28th International ACM CIKM Conference On Information and Knowledge Management (CIKM ’19), Nov 03-07, 2019, Beijing, China. ACM, New York, NY, USA, xx pages. https://xxxxxx.
+2. The use of the Software is restricted to research or other non-commercial purpose. 
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
