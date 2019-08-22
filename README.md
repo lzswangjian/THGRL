@@ -3,17 +3,17 @@ CIKM 2019: Cross-domain Aspect Category Transfer and Detection via Traceable Het
 
 ## Introduction
 
-This is the dataset from the paper "Cross-domain Aspect Category Transfer and Detection via Traceable Heterogeneous Graph Representation Learning". 
-
+This is the dataset from the paper "Cross-domain Aspect Category Transfer and Detection via Traceable Heterogeneous Graph Representation Learning". Unfortunately, we are unable to provide source code due to copyright and information security issues. 
 
 ## Download the Datasets
 * You can download Dataset from [This Link](https://drive.google.com/file/d/16XP5WLYO3qgZR8jbaq-rxFp-0EpWIwQS/view?usp=sharing).
-* There is an another copy on Baidu Network Disk, which will be very friendly to Chinese reseachers:
+* Also, there is an another copy on Baidu Network Disk, which will be very friendly to Chinese reseachers:
     ```
     link: https://pan.baidu.com/s/1np4HuCAlZFZl0DXHfl_oew
     code: y3ih
     ```
 
+## The Structure of the Folder
 ```
 THGRL
 ├── COPYRIGHT
