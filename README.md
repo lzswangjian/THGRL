@@ -43,10 +43,17 @@ THGRL
 Zhuoren Jiang, Jian Wang, Lujun Zhao, Changlong Sun, Yao Lu, and Xiaozhong Liu. 2019. 
 Cross-domain Aspect Category Transfer and Detection via Traceable Heterogeneous Graph Representation Learning. 
 In Proceedings of the 28th International ACM CIKM Conference On Information and Knowledge Management (CIKM ’19), Nov 03-07, 2019, Beijing, China. 
-ACM, New York, NY, USA, 10 pages. https://doi.org/xxxx/xxx.xxx.
+ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3357384.3357989.
 ```
 
 ```
-@
+@inproceedings{jiang2019cross,
+  title={Cross-domain Aspect Category Transfer and Detection via Traceable Heterogeneous Graph Representation Learning},
+  author={Zhuoren Jiang, Jian Wang, Lujun Zhao, Changlong Sun, Yao Lu, and Xiaozhong Liu},
+  booktitle={The 28th International ACM CIKM Conference on Research and Knowledge Managment},
+  pages={635--644},
+  year={2019},
+  organization={ACM}
+}
 
 ```
