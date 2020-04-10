@@ -37,7 +37,8 @@ THGRL
 
 ```
 
-## Cite
+## Citation
+If you find THGRL useful in your research, please cite the following paper:
 
 ```
 Zhuoren Jiang, Jian Wang, Lujun Zhao, Changlong Sun, Yao Lu, and Xiaozhong Liu. 2019. 
