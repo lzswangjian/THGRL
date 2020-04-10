@@ -56,5 +56,13 @@ ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3357384.3357989.
   year={2019},
   organization={ACM}
 }
-
 ```
+## License
+This project is licensed under the license found in the LICENSE file in the root directory of this source tree.
+
+## Contact Information
+For help or issues using THGRL, please submit a GitHub issue.
+For other communications related to LayoutLM, please contact Jian Wang (eric.wj@alibaba-inc.com).
+
+
+
