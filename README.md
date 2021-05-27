@@ -62,7 +62,6 @@ This project is licensed under the license found in the LICENSE file in the root
 
 ## Contact Information
 For help or issues using THGRL, please submit a GitHub issue.
-For other communications related to THGRL, please contact Jian Wang (eric.wj@alibaba-inc.com).
-
+For other communications related to THGRL, please contact Jian Wang (wangjian.wj@bytedance.com).
 
 
